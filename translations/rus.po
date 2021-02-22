@@ -124,7 +124,7 @@ msgstr "Играть с людьми по всему миру!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr "Играть с людьми на одной сети!"
+msgstr "Играть с людьми в одной сети!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
@@ -720,7 +720,7 @@ msgstr "Никнейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Никнейм (можно красить текст!)"
+msgstr "Никнейм (можно сделать цветной текст!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
