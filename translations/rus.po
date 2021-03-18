@@ -124,7 +124,7 @@ msgstr "Играть с людьми по всему миру!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Play with people on the same network!"
-msgstr "Играть с людьми на одной сети!"
+msgstr "Играть с людьми в одной сети!"
 
 # screen_select_multiplayer_type.cpp
 msgid "Select multiplayer type"
@@ -156,11 +156,11 @@ msgstr "Помощь"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer"
-msgstr "LAN мультиплеер"
+msgstr "Локальный мультиплеер"
 
 # screen_lan_create_or_join.cpp
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr "LAN мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
+msgstr "Локальный мультиплеер поддерживает игру с 2 игроками, подключённых к одной сети Wi-Fi."
 
 # screen_lan_create_or_join.cpp
 msgid "Multiplayer help"
@@ -288,7 +288,7 @@ msgstr "Пропустить"
 
 # screen_main_menu.cpp
 msgid "Local Multiplayer"
-msgstr "LAN Мультиплеер"
+msgstr "Локальный Мультиплеер"
 
 # screen_main_menu.cpp
 msgid "Multiplayer"
@@ -316,7 +316,7 @@ msgstr "Неправильный пароль."
 
 # screen_online_create_or_join_room.cpp
 msgid "Joining room"
-msgstr "Вход в комнату"
+msgstr "Вход в комнату..."
 
 # screen_online_create_or_join_room.cpp
 msgid "Room is full"
@@ -720,7 +720,7 @@ msgstr "Никнейм"
 
 # screen_register.cpp
 msgid "Username (you can put colors in!):"
-msgstr "Никнейм (можно красить текст!)"
+msgstr "Никнейм (можно сделать цветной!)"
 
 # screen_signed_in.cpp
 msgid "Online profile"
@@ -768,7 +768,7 @@ msgstr "Зелёный - хорошо, Красный - плохо."
 
 # game_levels.cpp
 msgid "Just 32 seconds of skills"
-msgstr "Полминуты скиллов"
+msgstr "32 секунды скиллов"
 
 # game_levels.cpp
 msgid "My favorite mode"
